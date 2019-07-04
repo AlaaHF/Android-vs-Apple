@@ -1,0 +1,52 @@
+html {
+  background-color: #cabfb6;
+  font-family: "Open Sans", sans-serif;
+  margin: auto;
+}
+
+body {
+  background-color: white;
+  padding: 0 100px;
+  width: 600px;
+  margin: auto;
+}
+
+h2 {
+  font-family: "Proza Libre", sans-serif;
+}
+
+button {
+  font-size: 20px;
+  border-radius: 5px;
+  padding: 5px 30px;
+  margin: 5px 0px 70px;
+}
+
+.Android {
+  background-color: #a4c93b;
+}
+
+.Apple {
+  background-color: #b6bcca;
+}
+
+p.Explore{
+  margin-bottom: 50px;
+}
+
+a{
+  text-decoration: none;
+  background: #c9793b;
+  color: black;
+  border-radius: 5px;
+  text-align: center;
+  padding: 10px 25px;
+}
+
+a:hover{
+  border: 1px solid black;
+}
+
+div.top{
+  text-align: center;
+}
